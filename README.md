@@ -14,14 +14,14 @@ B. Spoiler angle p = .31
 
  ![MechaCar MPG Statistics](MPG-Analysis.png)
   
-Suspension Coil
+Suspension Coils
 1. The date is symmetrically distributed due to the mean and median being close together. The variance of the PSI is less than 100 therefore it meets the design specifications. 
 
- ![Suspension Coil Statistics](Suspension-Statistics.png)
+ ![Suspension Coils Statistics](Suspension-Statistics.png)
   
 2. The sample suspension coil PSI are not statistically different from the population mean of 1500 pounds per inch, the p value is greater than 0.05 and we fail to reject the null hypothesis. 
 
- ![Success Rate of US Theater](Success%20Rate%20of%20US%20Theater.png)
+ ![One Sample T Test Suspesion Coils](One-sample-T-test-suspension.png)
   
 
 # MechaCompare
