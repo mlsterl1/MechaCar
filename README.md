@@ -12,7 +12,8 @@ B. Spoiler angle p = .31
 
 3. This linear model predicts the mpg of the mechcar protype very well. R-squared = approximately .7 meaning that 70% of the variance in mpg is explained by the variables listed in the data set. 
 
-
+ ![MechaCar Statistics](Success%20Rate%20of%20US%20Theater.png)
+  
 
 
 
@@ -20,8 +21,12 @@ B. Spoiler angle p = .31
 Suspension Coil
 1. The date is symmetrically distributed due to the mean and median being close together. The variance of the PSI is less than 100 therefore it meets the design specifications. 
 
-
+ ![Success Rate of US Theater](Success%20Rate%20of%20US%20Theater.png)
+  
 2. The sample suspension coil PSI are not statistically different from the population mean of 1500 pounds per inch, the p value is greater than 0.05 and we fail to reject the null hypothesis. 
+
+ ![Success Rate of US Theater](Success%20Rate%20of%20US%20Theater.png)
+  
 
 # MechaCompare
 First, we would identify the market segment we are to compare. We would look at the leaders in the same segment as the MechaCar protype. And collect the following data: purchase price, maintenance cost over life of vehicle, fuel efficiency/mpg, infotainment and overall customer satisfaction. 
