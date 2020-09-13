@@ -31,13 +31,13 @@ Purchase price, maintenance cost over the life of the vehicle , fuel efficiency 
 * Null hypothesis: 
 	* Purchase price of MechaCar is greater than or equal to the average values of top performers
 	* Maintenance cost over life of vehicle of MechaCar is greater than or equal to the average values of top performers
-       * Fuel efficiency/mpg is less than or equal to the average values of the top performers
+       	* Fuel efficiency/mpg is less than or equal to the average values of the top performers
 * Alternate hypothesis: 
 	* Purchase price of MechaCar is less than the average values of top performers
 	* Maintenance cost over life of vehicle of MechaCar is less than the average values of top performers
-        * Fuel efficiency/mpg is greater than the average values of the top performers	
+       	* Fuel efficiency/mpg is greater than the average values of the top performers	
 	
-	* For infotainment levels (basic, medium, advanced) and overall customer satisfaction (not satisfied, somewhat satisfied, satisfied and very satisfied) we would perform a Chi -square test. This would identify which level of infotainment provides the best overall customer satisfaction in the current market. This will help management decided what level of infotainment to provide in the MechaCar prototype. We will perform a chi-square test to see if there is or how much the level of infotainment influences the overall customer satisfaction. This will allow us to compare the distribution of frequencies within each infotainment and customer satisfaction level.   
+* For infotainment levels (basic, medium, advanced) and overall customer satisfaction (not satisfied, somewhat satisfied, satisfied and very satisfied) we would perform a Chi -square test. This would identify which level of infotainment provides the best overall customer satisfaction in the current market. This will help management decided what level of infotainment to provide in the MechaCar prototype. We will perform a chi-square test to see if there is or how much the level of infotainment influences the overall customer satisfaction. This will allow us to compare the distribution of frequencies within each infotainment and customer satisfaction level.   
 	
 * The Null hypothesis is that there is no association between infotainment level and overall customer satisfaction for vehicles in market segment 
 * The alternative hypothesis is there is an association between infotainment level and overall customer satisfaction. 
