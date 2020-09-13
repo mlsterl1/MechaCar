@@ -23,18 +23,21 @@ Suspension Coil
 
 2. The sample suspension coil PSI are not statistically different from the population mean of 1500 pounds per inch, the p value is greater than 0.05 and we fail to reject the null hypothesis. 
 
-MechaCompare
+# MechaCompare
 First, we would identify the market segment we are to compare. We would look at the leaders in the same segment as the MechaCar protype. And collect the following data: purchase price, maintenance cost over life of vehicle, fuel efficiency/mpg, infotainment and overall customer satisfaction. 
 Using the data above we would test as follows: 
-	Purchase price, maintenance cost over the life of the vehicle , fuel efficiency /mpg we would average the top 10 performers in the same segment and perform a one sample T-test to compare whether the MechaCar protype is better or worse than the samples selected. 
-Null hypothesis: 
-	Purchase price of MechaCar is greater than or equal to the average values of top performers
-Maintenance cost over life of vehicle of MechaCar is greater than or equal to the average values of top performers
-       Fuel efficiency/mpg is less than or equal to the average values of the top performers
-Alternate hypothesis: 
-	Purchase price of MechaCar is less than the average values of top performers
-Maintenance cost over life of vehicle of MechaCar is less than the average values of top performers
-       Fuel efficiency/mpg is greater than the average values of the top performers	
-	For infotainment levels (basic, medium, advanced) and overall customer satisfaction (not satisfied, somewhat satisfied, satisfied and very satisfied) we would perform a Chi -square test. This would identify which level of infotainment provides the best overall customer satisfaction in the current market. This will help management decided what level of infotainment to provide in the MechaCar prototype. We will perform a chi-square test to see if there is or how much the level of infotainment influences the overall customer satisfaction. This will allow us to compare the distribution of frequencies within each infotainment and customer satisfaction level.   
-The Null hypothesis is that there is no association between infotainment level and overall customer satisfaction for vehicles in market segment 
-The alternative hypothesis is there is an association between infotainment level and overall customer satisfaction. 
+Purchase price, maintenance cost over the life of the vehicle , fuel efficiency /mpg we would average the top 10 performers in the same segment and perform a one sample T-test to compare whether the MechaCar protype is better or worse than the samples selected. 
+
+* Null hypothesis: 
+	* Purchase price of MechaCar is greater than or equal to the average values of top performers
+	* Maintenance cost over life of vehicle of MechaCar is greater than or equal to the average values of top performers
+       * Fuel efficiency/mpg is less than or equal to the average values of the top performers
+* Alternate hypothesis: 
+	* Purchase price of MechaCar is less than the average values of top performers
+	* Maintenance cost over life of vehicle of MechaCar is less than the average values of top performers
+        * Fuel efficiency/mpg is greater than the average values of the top performers	
+	
+	* For infotainment levels (basic, medium, advanced) and overall customer satisfaction (not satisfied, somewhat satisfied, satisfied and very satisfied) we would perform a Chi -square test. This would identify which level of infotainment provides the best overall customer satisfaction in the current market. This will help management decided what level of infotainment to provide in the MechaCar prototype. We will perform a chi-square test to see if there is or how much the level of infotainment influences the overall customer satisfaction. This will allow us to compare the distribution of frequencies within each infotainment and customer satisfaction level.   
+	
+* The Null hypothesis is that there is no association between infotainment level and overall customer satisfaction for vehicles in market segment 
+* The alternative hypothesis is there is an association between infotainment level and overall customer satisfaction. 
